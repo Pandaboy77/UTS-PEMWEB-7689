@@ -1,0 +1,23 @@
+
+Nama: Azril Pariq Irawan
+Kelas: IF22A
+NIM: 22416255201238
+
+Soal dan Jawaban UTS PEMWEB (1 dan 2)
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab : jadi framework itu adalah cara kerja dalam pengembangan perangkat lunak yang menyediakan aturan dan alat bantu untuk memudahkan untuk pembuatan aplikasi atau system, nah tujuan untuk mempercepat pengembangan dengan menyediakan pondasi yang dapat digunakan Kembali. Contoh nya yang sering dipakai dalam teori ataupun praktikum mata kuliah PW yaitu bootstrap.
+
+2. Pertanyaan seputar projek
+a. Sebutkan tema proyek yang sedang digarap!
+Jawab: Tema projek yang sedang Kelompok kami kerjakan yaitu membuat aplikasi Help Center di sebuah toko HP.
+
+b. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+Jawab: 
+- Azril Pariq Irawan : frontend dan desain(tampilan)
+- Mohamad Giyas Azrial Fardzikni : Backend (Database)
+- Oktavia Nursyahbani : Laporan dan backend 
+Sebenarnya pembagian jobdesk ini menurut saya hanya formalitas semata, karena dalam pengerjaan semuanya kita kerjakan secara bersama. Agar masing-masing dari kita mengerti dan paham semua alur dan proses dari awal hingga akhir final project ini nanti.
+
+c. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab: Kurangnya respontivitas antara toko pusat ke cabang sehingga sering terjadi banyak kesalahan terutama dalam komunikasi. 
+solusi yang kami berikan adalah, karena itu kami membuat web project help center dengan fitur chat dan notifikasi keluhan, agar para admin ditoko pusat dapat segera merespon keluhan dari toko cabang, dan karena itu kami bertujuan untuk meminimalisir sebaik agar kurangnya komunikasi dan respontivitas dapat diperbaiki.
